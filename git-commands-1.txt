@@ -8,3 +8,9 @@ git commands private branch 1 changes
 
 **********************
 
+*****************************
+private branch2 changes
+
+*****************************
+
+>>>>>>> 1b4bcefc2b27db26ce669281fa14274519aafa08
