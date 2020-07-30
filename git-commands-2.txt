@@ -1,0 +1,3 @@
+git status - > Prints the status of the git repository
+git init -> Initializes the git repository
+git config -> global user.name
